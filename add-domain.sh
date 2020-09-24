@@ -19,4 +19,4 @@ fi
 
 echo $Domain >> ${Path}/${Type}
 echo 'www.'$Domain >> ${Path}/${Type}
-echo "Die Adressen ${Domain} und www.${Domain} wurden zur Liste ${Path}\${Type} hinzugefuegt"
+echo "Die Adressen ${Domain} und www.${Domain} wurden zur Liste ${Path}/${Type} hinzugefuegt"
